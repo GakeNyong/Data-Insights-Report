@@ -12,4 +12,4 @@ The report provides actionable recommendations for the CraftBridge project team,
 
 # Repository Contents
 - Survey report (PDF)
-Link to view the report on canva [https://www.canva.com/design/DAGc1H0GLtM/38qjdWJCGTvLJpH0JKUzcw/view?utm_content=DAGc1H0GLtM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h19a6c7c818]
+[View the pdf report](https://www.canva.com/design/DAGc1H0GLtM/38qjdWJCGTvLJpH0JKUzcw/view?utm_content=DAGc1H0GLtM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h19a6c7c818)
